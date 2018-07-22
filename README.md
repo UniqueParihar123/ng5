@@ -1,4 +1,5 @@
 # Ng5
+This project is a basic webpage with a simple todo list .
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
